@@ -1,4 +1,4 @@
-** Phase 1 — Foundations (Checklist) **
+# Phase 1 — Foundations (Checklist)
 
 - [ ] Understand core concepts (accounts vs. wallets, networks, gas, nonce, chain ID, tokens, events/logs, explorers)
 - [ ] Install prerequisites (Node.js LTS, Git, MetaMask, RPC provider account)
